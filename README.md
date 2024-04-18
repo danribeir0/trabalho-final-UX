@@ -1,7 +1,7 @@
 # Trabalho de conclusão da disciplina de UX
 
 **Criar uma página/site para a divulgação e venda de um produto/serviço relacionado com 'saúde' e/ou 'alimentação' aplicando as práticas de UX**  
-	- Usabilidade  
+* Usabilidade  
 	- Acessibilidade  
 	- Design centrado no usuário  
 	- Satisfação do usuário  
