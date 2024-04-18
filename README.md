@@ -37,7 +37,7 @@ Criar uma página/site para a divulgação e venda de um produto/serviço relaci
 **1º pensar no tema do site, no produto que será vendido e criar a 'campanha' de marketing com copywriting**
 
 **2º pensar a estética do site, as cores e a tipografia**  
-* pesquisem quais cores são melhores para o tipo de produto que você quer vender  
+* pesquisar quais cores são melhores para o tipo de produto que será divulgado  
 * qual seria uma boa tipografia para essas cores e esse produto?  
 
 **3º Desenhar o rascunho do site em papel (para tela de PC e para tela de smartphone)**  
@@ -55,4 +55,5 @@ Criar uma página/site para a divulgação e venda de um produto/serviço relaci
 
 * Deverá ser entregue todo conteúdo do copywriting, o rascunho desenhado, o esquema do wireframe e o protótipo funcional.
 
-* Deverá ser apresentado como vocês pensaram e desenvolveram o conteúdo do copywriting, o rascunho desenhado, o esquema do wireframe e o protótipo funcional.
+* Deverá ser apresentado como foi pensado e desenvolvido o conteúdo do copywriting, o rascunho desenhado, o esquema do wireframe e o protótipo funcional.
+* 	Deverá ser apresentado todo o passo a passo que foi realizado para o desenvolvimento do produto.
