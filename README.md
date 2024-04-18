@@ -56,4 +56,4 @@ Criar uma página/site para a divulgação e venda de um produto/serviço relaci
 * Deverá ser entregue todo conteúdo do copywriting, o rascunho desenhado, o esquema do wireframe e o protótipo funcional.
 
 * Deverá ser apresentado como foi pensado e desenvolvido o conteúdo do copywriting, o rascunho desenhado, o esquema do wireframe e o protótipo funcional.
-* 	Deverá ser apresentado todo o passo a passo que foi realizado para o desenvolvimento do produto.
+	* Deverá ser apresentado todo o passo a passo que foi realizado para o desenvolvimento do produto.
