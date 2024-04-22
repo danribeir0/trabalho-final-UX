@@ -34,9 +34,9 @@ Criar uma página/site para a divulgação e venda de um produto/serviço relaci
 * Estética  
 * Performasse  
 	
-**1º pensar no tema do site, no produto que será vendido e criar a 'campanha' de marketing com copywriting**
+**1º definir o tema do site, o produto que será vendido e criar a 'campanha' de marketing - copywriting**
 
-**2º pensar a estética do site, as cores e a tipografia**  
+**2º definir a estética do site, as cores e a tipografia**  
 * pesquisar quais cores são melhores para o tipo de produto que será divulgado  
 * qual seria uma boa tipografia para essas cores e esse produto?  
 
