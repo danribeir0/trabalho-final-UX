@@ -35,6 +35,7 @@ Criar uma página/site para a divulgação e venda de um produto/serviço relaci
 * Performasse  
 	
 **1º definir o tema do site, o produto que será vendido e criar a 'campanha' de marketing - copywriting**
+* após definir o tema e o produto converse com o ChatGPT para criar o copywriting - campanha de marketink para a sua landing page
 
 **2º definir a estética do site, as cores e a tipografia**  
 * pesquisar quais cores são melhores para o tipo de produto que será divulgado  
