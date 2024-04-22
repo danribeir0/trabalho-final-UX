@@ -51,6 +51,7 @@ Criar uma página/site para a divulgação e venda de um produto/serviço relaci
 **5º Criar um mockup/protótipo do wireframe (figma, canva, ...)**
 
 **6º Criar o protótipo funcional do site com botões de 'conversão' e a calculadora do IMC**
+* VSCode - HTML, CSS, JavaScript
 
 ## O que deve ser entregue e apresentado:
 
