@@ -41,7 +41,7 @@ Criar uma página/site para a divulgação e venda de um produto/serviço relaci
 * pesquisar quais cores são melhores para o tipo de produto que será divulgado  
 * qual seria uma boa tipografia para essas cores e esse produto?  
 
-**3º Desenhar o rascunho do site em papel (para tela de PC e para tela de smartphone)**  
+**3º Desenhar o rascunho do site no papel ou computador (para tela de PC e para tela de smartphone)**  
 * usar o copywriting que foi criado  
 * deve ter o 'campo'/'funcionalidade' da calculadora do IMC  
 * foco nos aspectos da UX  
