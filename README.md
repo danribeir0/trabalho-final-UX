@@ -46,7 +46,7 @@ Criar uma página/site para a divulgação e venda de um produto/serviço relaci
 * deve ter o 'campo'/'funcionalidade' da calculadora do IMC  
 * foco nos aspectos da UX  
 
-**4º Criar o wireframe a partir do rascunho (figma, canva, ...)**
+**4º Criar o wireframe a partir do rascunho (no papel ou figma, canva, ...)**
 
 **5º Criar um mockup/protótipo do wireframe (figma, canva, ...)**
 
