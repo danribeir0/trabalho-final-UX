@@ -26,7 +26,7 @@
 **Add a calculadora do IMC na página**
 
 ## O que deve ser feito:
-Criar uma página/site para a divulgação e venda de um produto/serviço relacionado com 'saúde' e/ou 'alimentação' aplicando as práticas de UX  
+Criar uma página/site para a divulgação e venda ([Landing Page](https://rockcontent.com/br/blog/landing-page/)) de um produto/serviço relacionado com 'saúde' e/ou 'alimentação' aplicando as práticas de UX  
 * Usabilidade  
 * Acessibilidade  
 * Design centrado no usuário  
@@ -48,10 +48,12 @@ Criar uma página/site para a divulgação e venda de um produto/serviço relaci
 
 **4º Criar o wireframe a partir do rascunho (no papel ou figma, canva, ...)**
 
-**5º Criar um mockup/protótipo do wireframe (figma, canva, ...)**
+**5º Criar um mockup/protótipo do wireframe no [FIGMA](https://www.figma.com/)**
 
 **6º Criar o protótipo funcional do site com botões de 'conversão' e a calculadora do IMC**
-* VSCode - HTML, CSS, JavaScript
+* No FIGMA, adicione o plugin ___Figma to HTML___
+* Exporte os arquivos do FIGMA e abra no VSCode
+* No VSCode, faça as adaptações necessárias - HTML, CSS, JavaScript
 
 ## O que deve ser entregue e apresentado:
 
